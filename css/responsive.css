@@ -24,6 +24,7 @@
 
     .tf__banner_img {
         height: 450px;
+        object-fit: contain;
     }
 
     .tf__counter_text h2,

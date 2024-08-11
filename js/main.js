@@ -30,7 +30,7 @@
         slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: false,
-        autoplaySpeed: 2000,
+        autoplaySpeed: 10,
         dots: false,
         arrows: true,
         nextArrow: '<i class="fa-regular fa-arrow-right-long nextArrow"></i>',
